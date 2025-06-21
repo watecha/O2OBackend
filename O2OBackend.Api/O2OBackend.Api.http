@@ -1,0 +1,6 @@
+@O2OBackend.Api_HostAddress = http://localhost:5078
+
+GET {{O2OBackend.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
